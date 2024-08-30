@@ -1,0 +1,12 @@
+[
+    {"PhysicianID": "PHY112233", "Password": "DoctorPass1"},
+    {"PhysicianID": "PHY445566", "Password": "DoctorPass2"},
+    {"PhysicianID": "PHY778899", "Password": "DoctorPass3"},
+    {"PhysicianID": "PHY001122", "Password": "DoctorPass4"},
+    {"PhysicianID": "PHY334455", "Password": "DoctorPass5"},
+    {"PhysicianID": "PHY667788", "Password": "DoctorPass6"},
+    {"PhysicianID": "PHY990011", "Password": "DoctorPass7"},
+    {"PhysicianID": "PHY223344", "Password": "DoctorPass8"},
+    {"PhysicianID": "PHY556677", "Password": "DoctorPass9"},
+    {"PhysicianID": "PHY889900", "Password": "DoctorPass10"}
+]
